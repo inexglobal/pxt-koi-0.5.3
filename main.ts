@@ -63,9 +63,9 @@ namespace koi {
     //% block=Front
     Front = 0,
     //% block=Back
-    Back = 2,
+    Back = 1,
     //% block=Land
-    Land = 1,
+    Land = 2,
   }
 
   function trim(n: string): string {
